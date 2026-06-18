@@ -458,7 +458,7 @@ progress {
 }
 @media (min-width: 1200px) {
   .display-5 {
-    font-size: 2rem;
+    font-size: 1.4rem;
     color: #ed2f5e;
   }
 }
